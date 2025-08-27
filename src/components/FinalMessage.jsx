@@ -23,7 +23,7 @@ export default function FinalMessage() {
     KULDEEP ✨`
 
 
-    const titleWords = ["Happy", "Raksha", "Bandhan!"]
+    const titleWords = ["Happy", "Birthday"]
 
     useEffect(() => {
         const celebrate = () => {
@@ -125,7 +125,7 @@ export default function FinalMessage() {
                                             <img src="/birth.gif" className="w-40 mb-4" alt="" />
                                         </div>
 
-                                        <h2 className="text-xl font-bold text-[#C026D3] drop-shadow-sm">Birthday Card</h2>
+                                        <h2 className="text-xl font-bold text-[#C026D3] drop-shadow-sm">You are the best Anjali.</h2>
                                         <p className="text-[#9D174D] text-center px-4 mt-1">Tap to read message 💌</p>
 
                                     </div>
